@@ -3,6 +3,9 @@
 ## Overview
 This project implements a real-time speech transcription system using Azure Cognitive Services and OpenAI's GPT-4 API. The application transcribes speech from multiple speakers, identifies key dates, extracts actionable items, and provides a summarized transcript.
 
+![Screenshot 2025-02-21 213250](https://github.com/user-attachments/assets/7d172fe6-7e5a-4836-8121-79455bdd6bab)
+
+
 ## Features
 - **Real-Time Transcription**: Captures speech input and transcribes it using Azure Speech SDK.
 - **Speaker Identification**: Differentiates between speakers during transcription.
